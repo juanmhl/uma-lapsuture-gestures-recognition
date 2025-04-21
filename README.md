@@ -27,3 +27,24 @@ This code was developed using MATLAB R2022b and all files are prepared to be run
 
 > [!WARNING]
 > The code layout of this repository has been restructured significantly from the original version and not all the scripts have been tested after the restructuring as that is an ongoing process. If any script does not work, please open an issue and I will try to fix it as soon as possible.
+
+## Citing
+
+If you consider this work useful for your research, please cite the paper as follows:
+
+```bibtex
+@ARTICLE{10799090,
+  author={Herrera-López, Juan M. and Galán-Cuenca, Álvaro and Reina, Antonio J. and García-Morales, Isabel and Muñoz, Víctor F.},
+  journal={IEEE Access},
+  title={Laparoscopic Suture Gestures Recognition via Machine Learning: A Method for Validation of Kinematic Features Selection},
+  year={2024},
+  volume={12},
+  number={},
+  pages={190470-190486},
+  keywords={Surgery;Kinematics;Needles;Hidden Markov models;Robots;Data models;Laparoscopes;Data mining;Image recognition;Vectors;Feature selection;hidden Markov models;laparoscopic suturing;neural networks;surgical gestures recognition;surgical robotics},
+  doi={10.1109/ACCESS.2024.3516949}}
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
