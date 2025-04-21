@@ -1,0 +1,35 @@
+# Raw dataset
+Data/Experimental_setup/*
+Data/Suturing/*
+Data/Knot_Tying/*
+Data/Needle_Passing/*
+
+# Loaded dataset
+Data/Matlab_data/Suturing_features_data_clean.mat
+Data/Matlab_data/Suturing_features_data.mat
+Data/Matlab_data/Suturing_features_names.mat
+Data/Matlab_data/Suturing_raw_data.mat
+
+# Feature selection results
+Common/Feature_Selection/**/*.mat
+
+# Trained models
+HMM/models/*
+MLP/models/*
+VMM/models_with_results/*
+
+# Results of evaluation
+HMM/results/*
+MLP/results/*
+VMM/results/*
+
+# Matlab autosave files
+*.asv
+*.avi
+*.zip
+
+# All matlab saved variables files
+*.mat
+
+*.fig
+*.png
